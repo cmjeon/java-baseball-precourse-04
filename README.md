@@ -20,6 +20,7 @@
   - startGame : 게임을 시작한다.
   - runGame : 게임을 실행한다.
   - askReGame : 사용자에게 다시 할 것인지 묻는다.
+  - isStrikeAll : 모두 스트라이크인지 확인한다.
 
 - HomeTeam
   - getGuessedNumberFromReadLine : 사용자로부터 추측숫자문자열를 받는다.
